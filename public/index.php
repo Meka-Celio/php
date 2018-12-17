@@ -12,5 +12,6 @@
 require_once '..'.DS.'app'.DS.'config.php';
 
 echo APP_PATH;
+$user = new User();
 
  ?>
