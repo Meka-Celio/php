@@ -13,7 +13,7 @@ require_once '..'.DS.'app'.DS.'config.php';
 
 echo APP_PATH;
 $user1 = new CTRL\User();
-$user1::affiche('test','12','tr');
+// $user1::affiche('test','12','tr');
 // $user2 = new User("KOBAYAKAWA","Sena");
 
 // $user1->affiche();
